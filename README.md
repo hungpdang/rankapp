@@ -9,7 +9,6 @@ First, you will need to run **Metro**, the JavaScript build tool for React Nativ
 
 To start the Metro dev server, run the following command from the root of your React Native project:
 
-# Using Yarn
 ```yarn start```
 
 ## Step 2: Build and run your app
@@ -32,4 +31,11 @@ This is one way to run your app — you can also build it directly from Android 
 ## Step 3: For Unit testing redux
 
 Run ```yarn test redux``` at root folder to perform unit test
+
+## Video
+
+
+https://github.com/user-attachments/assets/ac745ad7-7cc8-437f-bc5b-dd515f1a71f6
+
+
 
